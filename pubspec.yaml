@@ -1,0 +1,33 @@
+name: e_book_app
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.4
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  get: ^4.6.6
+  google_fonts: ^6.1.0
+  shared_preferences: ^2.2.2
+  flutter_native_splash: ^2.4.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/
+    - assets/shlokas.json
+    - assets/splash.jpg
+
+flutter_native_splash:
+  image: assets/splash.jpg
+  background_color: "#ffffff"
