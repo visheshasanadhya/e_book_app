@@ -28,11 +28,11 @@
 
 | Splash Screen | Home Page | Shloka List | Shloka Details |
 |---------------|-----------|-------------|----------------|
-| ![](assets/screenshots/screenshot1.png) | ![](assets/screenshots/screenshot2.png) | ![](assets/screenshots/screenshot3.png) | ![](assets/screenshots/screenshot4.png) |
+| ![](assets/screenshots/Screenshot_20250609_082037_Chrome.jpg) | ![](assets/screenshots/Screenshot_20250609_082112_Chrome.jpg) | ![](assets/screenshots/Screenshot_20250609_082131_Chrome.jpg) | ![](assets/screenshots/Screenshot_20250609_082152_Chrome.jpg) |
 
 | Drawer Screen |
 |---------------|
-| ![](assets/screenshots/screenshot5.png) |
+| ![](assets/screenshots/Screenshot_20250609_082225_Chrome.jpg) |
 
 ---
 
