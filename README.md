@@ -1,4 +1,4 @@
-# e_book_app
+# shrimad_bhagavad_gita
 
 A new Flutter project.
 
