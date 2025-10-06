@@ -1,6 +1,10 @@
 # shrimad_bhagavad_gita
 # 📖 श्रीमद् भगवद् गीता - E-Book App
 
+## Deployment Link-
+
+https://visheshasanadhya.github.io/e_book_app/
+
 🌼 A beautifully designed and spiritually enriching Flutter web app featuring all 18 chapters of the **Shrimad Bhagavad Gita**. It includes the original Sanskrit shlokas, their meanings, synonyms, and purports. The app is deployed on **GitHub Pages** for anyone to access and explore the divine knowledge of the Gita.
 
 [🌐 Live Deployment Link](https://visheshasanadhya.github.io/e_book_app/)
